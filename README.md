@@ -1,0 +1,1 @@
+# Pattern-static-page
